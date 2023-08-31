@@ -29,5 +29,5 @@ the repo.
 https://archive.org/details/wikiart-dataset
 
 # Future Plans
-- Add a post to my personal website(tuckersideas.net) about this repo
+- Add a post to my personal website(https://tuckersideas.net/) about this repo
 - Train the final working version for an art project
