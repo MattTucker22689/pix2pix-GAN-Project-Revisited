@@ -6,8 +6,8 @@ not claim entirely as my own. Much of the code in the folder "original" was init
   https://github.com/aladdinpersson/Machine-Learning-Collection/tree/master/ML/Pytorch/GANs/Pix2Pix
 
 # Purpose
-The original purpose of this project was to demonstrate an ability to apply the topics of the course while learning and applying new material
-to achieve some goal. In particular, we set out to learn the mathematics behind GANs and implement a demonstration of a GAN.
+The original purpose of this project was to: "demonstrate an ability to apply the topics of the course while learning and applying new material
+to achieve some goal. In particular, we set out to learn the mathematics behind GANs and implement a demonstration of a GAN."
 
 My reason for revisiting this project is to modify it to work on images of size 1024x1024.
 
