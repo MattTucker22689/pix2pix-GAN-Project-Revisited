@@ -9,9 +9,10 @@ not claim entirely as my own. Much of the code in the folder "original" was init
 The original purpose of this project was to: "demonstrate an ability to apply the topics of the course while learning and applying new material
 to achieve some goal. In particular, we set out to learn the mathematics behind GANs and implement a demonstration of a GAN."
 
-My reason for revisiting this project is to modify it to work on images of size 1024x1024.
+My reason for revisiting this project is to modify it to work on images of size 1024x1024x3.
 
 # To run:
+- You will either need to rename the "new" "pix2pix_Revisited" or rename the "original" folder "pix2pix"
 - You will need to add the folders "data/" and "evaluation/" to "/pix2pix_Revisited/."
 - You will also need to add "training/" and "val/" to "/pix2pix_Revisited/data/."
 - You will need to populate the folder "/pix2pix_Revisited/data/training/" with training data
